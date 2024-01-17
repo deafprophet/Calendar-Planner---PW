@@ -1,4 +1,4 @@
-#Calendar Planner Shiny Application
+# Calendar Planner Shiny Application
 
 ## Overview
 The Calendar Planner is a web application built using R Shiny. It allows users to manage and view tasks on a calendar, offering features such as adding, viewing, managing tasks, and viewing task statistics.
